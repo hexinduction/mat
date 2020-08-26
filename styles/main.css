@@ -200,6 +200,7 @@ main {
   grid-column-end: 11;
   margin-top: 1.6rem;
   text-align: center;
+  font-size: 2.4rem;
 }
 
 .contact-email {
@@ -325,6 +326,10 @@ li.nav-link {
   font-family: 'DM Mono';
   font-size: 1.8rem;
   font-weight: 500;
+}
+
+.about {
+  text-align: center;
 }
 
 
