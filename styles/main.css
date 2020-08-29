@@ -359,6 +359,12 @@ footer {
    	margin: 0 0 0 -.4rem;
    }
 
+   .intro-statement {
+     grid-column-start: 5;
+     grid-column-end: 9;
+     text-align: center;
+   }
+
 
   .button1 {
     grid-column-start: 5;
