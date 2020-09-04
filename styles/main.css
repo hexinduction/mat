@@ -232,8 +232,8 @@ nav ul {
   position: absolute;
   top: 0;
   left: 0;
-  width: 6rem;
-  height: 6rem;
+  width: 4.8rem;
+  height: 4.8rem;
   z-index: 2;
 }
 
@@ -481,6 +481,24 @@ footer {
   height: 4.8rem;
   width: 100%;
   margin-top: 5%;
+}
+
+/* RESOURCES.HTML */
+
+.section-no-link {
+  border: .2rem solid #200104;
+  border-radius: .4rem;
+  grid-column-start: 1;
+  grid-column-end: 13;
+  line-height: 2.2rem;
+  max-width: 64rem;
+  margin: 4.8rem auto 0 auto;
+  padding: 1.6rem;
+}
+
+.resource-text {
+  margin: 0 auto;
+  font-weight: bold;
 }
 
  @media screen and (min-width: 1024px ) {
