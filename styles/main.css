@@ -174,8 +174,8 @@ header {
 
 .nav-mid {
   display: block;
-  grid-column-start: 6;
-  grid-column-end: 8;
+  grid-column-start: 5;
+  grid-column-end: 9;
   height: 6.4rem;
   justify-content: center;
   text-align: center;
