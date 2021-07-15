@@ -410,6 +410,12 @@ main {
   text-align: center;
 }
 
+.little-title {
+  grid-column-start: 1;
+  grid-column-end: 13;
+  text-align: center;
+}
+
 .text-block {
   grid-column-start: 1;
   grid-column-end: 13;
@@ -418,7 +424,13 @@ main {
   margin: 0 auto;
 }
 
-
+.cre-address {
+  grid-column-start: 1;
+  grid-column-end: 13;
+  max-width: 77.4rem;
+  margin: 0 auto;
+  text-align: center;
+}
 
 .button-link {
    grid-column-start: 3;
