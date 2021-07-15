@@ -416,6 +416,13 @@ main {
   text-align: center;
 }
 
+.cre-title {
+  grid-column-start: 1;
+  grid-column-end: 13;
+  text-align: center;
+  margin-top: -7.2rem;
+}
+
 .text-block {
   grid-column-start: 1;
   grid-column-end: 13;
@@ -677,28 +684,6 @@ footer {
      align-items: center;
      text-align: center;
    }
-
-   .intro-statement {
-     grid-column-start: 5;
-     grid-column-end: 9;
-     text-align: center;
-   }
-
-   .button {
-     height: 7.2rem;
-   }
-
-  .button1 {
-    grid-column-start: 3;
-    grid-column-end: 7;
-    margin-top: 2.4rem;
-  }
-
-  .button2 {
-    grid-column-start: 7;
-    grid-column-end: 11;
-    margin-top: 2.4rem;
-  }
 
   .button-link {
     grid-column-start: 5;
